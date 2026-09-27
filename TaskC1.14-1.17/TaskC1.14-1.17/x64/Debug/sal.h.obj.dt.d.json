@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visuallllstud\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\visuallllstud\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
