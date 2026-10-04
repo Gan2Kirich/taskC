@@ -1,0 +1,3 @@
+﻿  taskc2.23-2.26.cpp
+D:\Games\ITe\taskc2.23-2.26\taskc2.23-2.26\taskc2.23-2.26.cpp(65,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  taskc2.23-2.26.vcxproj -> D:\Games\ITe\taskc2.23-2.26\x64\Debug\taskc2.23-2.26.exe
